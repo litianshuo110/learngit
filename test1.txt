@@ -1,2 +1,3 @@
 test stash
 changes to be commited
+new
